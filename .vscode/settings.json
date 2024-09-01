@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "log.h": "c",
+        "utils.h": "c",
+        "commons.h": "c",
+        "config.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "tlb.h": "c"
+    }
+}
